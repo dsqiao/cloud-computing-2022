@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.b3a92eb0.js",
-    "static/js/787.7066aac0.chunk.js": "/static/js/787.7066aac0.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.b3a92eb0.js.map": "/static/js/main.b3a92eb0.js.map",
-    "787.7066aac0.chunk.js.map": "/static/js/787.7066aac0.chunk.js.map"
+    "main.css": "/cloud-computing-2022/static/css/main.073c9b0a.css",
+    "main.js": "/cloud-computing-2022/static/js/main.b71f18b3.js",
+    "static/js/787.7066aac0.chunk.js": "/cloud-computing-2022/static/js/787.7066aac0.chunk.js",
+    "index.html": "/cloud-computing-2022/index.html",
+    "main.073c9b0a.css.map": "/cloud-computing-2022/static/css/main.073c9b0a.css.map",
+    "main.b71f18b3.js.map": "/cloud-computing-2022/static/js/main.b71f18b3.js.map",
+    "787.7066aac0.chunk.js.map": "/cloud-computing-2022/static/js/787.7066aac0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b3a92eb0.js"
+    "static/js/main.b71f18b3.js"
   ]
 }
