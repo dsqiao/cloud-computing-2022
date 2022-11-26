@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cloud-computing-2022/static/css/main.073c9b0a.css",
-    "main.js": "/cloud-computing-2022/static/js/main.d74ffc0b.js",
+    "main.js": "/cloud-computing-2022/static/js/main.141460bb.js",
     "static/js/787.7066aac0.chunk.js": "/cloud-computing-2022/static/js/787.7066aac0.chunk.js",
     "index.html": "/cloud-computing-2022/index.html",
     "main.073c9b0a.css.map": "/cloud-computing-2022/static/css/main.073c9b0a.css.map",
-    "main.d74ffc0b.js.map": "/cloud-computing-2022/static/js/main.d74ffc0b.js.map",
+    "main.141460bb.js.map": "/cloud-computing-2022/static/js/main.141460bb.js.map",
     "787.7066aac0.chunk.js.map": "/cloud-computing-2022/static/js/787.7066aac0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d74ffc0b.js"
+    "static/js/main.141460bb.js"
   ]
 }
